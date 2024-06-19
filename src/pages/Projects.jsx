@@ -19,7 +19,7 @@ function Projects() {
     "Sharing Breath Has No Label",
     "Asphalt And Steel",
     "Along The Flaggy Shore",
-    "The Craft - Mouawad",
+   // "The Craft - Mouawad", //
     "Santa Susana",
     "Cazcabel",
     "Nutrisystem",
@@ -89,8 +89,8 @@ function Projects() {
       navigate(`/motion/dance-with-me-sophie`);
     } else if (span === "Sweet Police") {
       navigate(`/motion/sweet-police`);
-    } else if (span === "The Craft - Mouawad") {
-      navigate(`/motion/the-craft-mouawad`);
+  //  } else if (span === "The Craft - Mouawad") {
+   //   navigate(`/motion/the-craft-mouawad`);
     } else if (span === "Santa Susana") {
       navigate(`/motion/santa-susana`);
     } else if (span === "Cazcabel") {
